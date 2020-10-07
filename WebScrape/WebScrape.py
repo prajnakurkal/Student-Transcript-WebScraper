@@ -87,3 +87,4 @@ def scrape():
 		else:
 			print("in the course " + n.get_text() + " your grade is " + g.get_text()) 
 
+
