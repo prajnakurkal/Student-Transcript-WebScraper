@@ -5,8 +5,6 @@ from bs4 import BeautifulSoup
 import re
 
 service_url = 'https://sis.rutgers.edu/tags/student.htm'
-user = 'psk79'
-pwd = 'rutgers.com!#0'
 
 def scanUser():
 	user = input("enter netid username ")
